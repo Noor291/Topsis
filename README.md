@@ -8,4 +8,10 @@ This website enables you to calculate TOPSIS (Technique for Order of Preference 
 <h2>Screenshot of the interface</h2>
 
 ![image](https://github.com/Noor291/Topsis/assets/78134535/85558fe3-10b9-4a83-a86c-b6ae642221b1)
+<h2> Keep in mind the following rules </h2>
+1. Number of weights and number of impacts must be equal.<br>
+2. The impacts must be '+' or '-' only.<br>
+3. Number of columns must be greater than equal to 3.<br>
+4. Number of columns of file and number of weights/impacts must be equal.<br>
+5. All the columns except the first one must be numeric.<br>
 
